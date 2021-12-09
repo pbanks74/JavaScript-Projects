@@ -1,6 +1,6 @@
 # JavaScript-Projects
 
-The Tech Academy's JavaScript course taught me functions, loops, variables, naming conventions and data types. These are some projects I created utilizing JavaScript.
+The Tech Academy's JavaScript course taught me functions, loops, variables, naming conventions and data types.  These are some projects I created utilizing JavaScript.
 
 ## Projects
 
